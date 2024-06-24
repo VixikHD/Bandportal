@@ -8,6 +8,7 @@
 ## Technologies used
 
 ### Backend
+- Gradle
 - Kotlin
 - Ktor (Web App Framework)
 - Exposed (Working with DB)
@@ -15,8 +16,8 @@
 ### Frontend
 - npm
 - TypeScript
-- Vue.js - Framework
-- Vuetify - Knihovna Material Design komponent
+- Vue.js
+- Vuetify (Material Design Library)
 
 ## Screenshots
 ![1](frontend/assets/3.png)
